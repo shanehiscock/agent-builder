@@ -1,0 +1,10 @@
+.env
+.env.*
+*.key
+*.pem
+credentials*
+*secret*
+*token*
+__pycache__/
+.venv/
+scratch/
