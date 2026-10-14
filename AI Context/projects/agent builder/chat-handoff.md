@@ -27,3 +27,7 @@ Video goal: show the test Jobber account before the call, Shane speaking to the 
 ## Next action
 
 Create the private GitHub repository agent-builder, push this prepared project, select it for a cloud environment, and publish through the product. Confirm laptop access after cloning/opening. Continue prompt/agent work from these files; attach the business repository when its source or policies are needed.
+
+## Brand update — 2026-10-14
+
+Shane requested renaming Hiscock Automations branding to Easy Company. Use Easy Company going forward. The old GitHub repository and local paths have not been renamed; they remain valid technical references. Registered contracting identity has not been established.

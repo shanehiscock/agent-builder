@@ -27,3 +27,7 @@ The supplied AI Prompting.txt transcript was inspected and its MAPS framework in
 Open this repository and say: “Use AI Context/projects/agent builder to build me an agent that [task].” For a chat without repository access, attach the builder rules and relevant agent instructions. Do not assume Git files are available in every product.
 
 Generated human-readable agent specifications belong in `AI Context/projects/agent builder/agents/<agent-name>/`. Reusable repository skills belong in `.claude/skills/<agent-name>/SKILL.md`. Executable software should follow the repository's applicable project layout rules. Building a specification does not establish that its tool integrations work.
+
+## Business branding
+
+Use Easy Company in all new prompts and business documents, as confirmed by Shane on 2026-10-14. Existing shanehiscock/hiscock-automations URLs and checkout paths still identify the actual source repository; do not replace them until the repository migration is verified. Legal contracting identity remains to be confirmed separately.

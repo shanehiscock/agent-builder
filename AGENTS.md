@@ -9,3 +9,7 @@ Use MAPS: Mission, Ask, Parameters, Shape. Ask only consequential missing questi
 Draft external messages. Obtain applicable explicit authorization before sending, publishing, spending, connecting integrations, or changing live systems. Reuse existing authorization within its scope. Preserve user changes; stage only reviewed files; never force-push. Use the existing isolated checkout; no worktrees unless requested.
 
 Instructions do not confer integrations or automatic memory. Record verified results and next action in the project context. Read `CLAUDE.md` for the equivalent entry point.
+
+## Current business name — 2026-10-14
+
+Shane confirmed Easy Company as the current brand. Use Easy Company in new business documents, prompts, project labels, and website copy. Historical records may retain the former name. Existing repository URLs, filesystem paths, email addresses, domains, provider identifiers, and personal name Shane Hiscock are technical or historical references; verify and migrate them explicitly rather than replacing strings blindly. This branding instruction does not establish a registered legal entity name or authorize publication of live changes.
